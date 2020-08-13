@@ -39,6 +39,9 @@ The page will reload if you make edits.<br />
 ### Features
 To search for the restaurant list, type in the type of food and place and select the filter and press "Let's go" button.
 
+<img src="Screen%20Shot%202020-08-12%20at%209.22.37%20PM.png">
+<img src="Screen%20Shot%202020-08-12%20at%209.23.07%20PM.png">
+<img src="Screen%20Shot%202020-08-12%20at%209.24.29%20PM.png">
 ![Image of Pizza search at NYC with Best Match filter](Screen%20Shot%202020-08-12%20at%209.22.37%20PM.png)
 ![Image of Indian food search at NYC with Highest Rated filter](Screen%20Shot%202020-08-12%20at%209.23.07%20PM.png)
 ![Image of Middle Eastern food search at Seattle with Most Reviewed filter](Screen%20Shot%202020-08-12%20at%209.24.29%20PM.png)
