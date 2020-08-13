@@ -25,8 +25,9 @@ This project major task were,
 
 
 ### How to setup the application
- To clone the project run: 
- git clone
+ To clone the project run:
+ 
+ `git clone https://github.com/vivek92-tech/ravenous-restaurant-review-App.git`
  
 ### `npm start`
 
