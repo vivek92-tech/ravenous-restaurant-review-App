@@ -23,19 +23,24 @@ This project major task were,
  * Interacting with the Yelp API
 
 
-
 ### How to setup the application
  To clone the project run:
  
  `git clone https://github.com/vivek92-tech/ravenous-restaurant-review-App.git`
  
-### `npm start`
-
+ * install Node.js on your machine
+ * `npm install whatwg-fetch --save` to install the `whatwg-fetch` polyfill and add it to your package.json file.
+ * `npm run start`
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
+### Features
+To search for the restaurant list, type in the type of food and place and select the filter and press "Let's go" button.
+
+![Image of Pizza search at NYC with Best Match filter](Screen%20Shot%202020-08-12%20at%209.22.37%20PM.png)
+![Image of Indian food search at NYC with Highest Rated filter](Screen%20Shot%202020-08-12%20at%209.23.07%20PM.png)
+![Image of Middle Eastern food search at Seattle with Most Reviewed filter](Screen%20Shot%202020-08-12%20at%209.24.29%20PM.png)
 
 
